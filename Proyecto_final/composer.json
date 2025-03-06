@@ -1,0 +1,14 @@
+{
+    "name": "vendor/mvc",
+    "autoload": {
+        "psr-4": {
+            "Vendor\\Mvc\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ases"
+        }
+    ],
+    "require": {}
+}
